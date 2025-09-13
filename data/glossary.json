@@ -1,0 +1,137 @@
+[
+  {
+    "term": "XP",
+    "definition": "Experience points earned by ambassadors for completing quests or activities.",
+    "category": "Social/XP Systems",
+    "usedBy": "Gamers Guild, Review Circle",
+    "example": "Completing your first review earns you 100 XP.",
+    "icon": "🧩",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/xp-system"
+  },
+  {
+    "term": "Quest",
+    "definition": "Structured tasks or challenges that ambassadors can complete to earn rewards and XP.",
+    "category": "Social/XP Systems",
+    "usedBy": "Gamers Guild, Onboarding Workgroup",
+    "example": "Complete the 'First Review' quest to unlock advanced features.",
+    "icon": "🎯",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/quests"
+  },
+  {
+    "term": "Review Circle",
+    "definition": "A workgroup focused on reviewing and evaluating ambassador contributions and proposals.",
+    "category": "Ambassador Workgroups",
+    "usedBy": "Review Circle, Governance",
+    "example": "The Review Circle evaluates monthly contribution reports.",
+    "icon": "🔍",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/workgroups/review-circle"
+  },
+  {
+    "term": "DeepFunding",
+    "definition": "SingularityNET's decentralized funding program for AI projects and research initiatives.",
+    "category": "Grant Programs",
+    "usedBy": "DeepFunding Team, Governance",
+    "example": "Apply for DeepFunding Round 4 to get your AI project funded.",
+    "icon": "💰",
+    "docsLink": "https://deepfunding.ai"
+  },
+  {
+    "term": "Gamers Guild",
+    "definition": "A workgroup that gamifies the ambassador experience through quests, XP systems, and interactive challenges.",
+    "category": "Ambassador Workgroups",
+    "usedBy": "Gamers Guild, Social Systems",
+    "example": "Join the Gamers Guild to participate in weekly gaming challenges.",
+    "icon": "🎮",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/workgroups/gamers-guild"
+  },
+  {
+    "term": "Onboarding Workgroup",
+    "definition": "A workgroup dedicated to helping new ambassadors integrate into the SingularityNET ecosystem.",
+    "category": "Ambassador Workgroups",
+    "usedBy": "Onboarding Team, New Ambassadors",
+    "example": "The Onboarding Workgroup hosts weekly orientation sessions.",
+    "icon": "🚀",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/workgroups/onboarding"
+  },
+  {
+    "term": "Certification Program",
+    "definition": "A structured learning path that validates ambassador skills and knowledge in specific areas.",
+    "category": "Social/XP Systems",
+    "usedBy": "Education Guild, Certification Team",
+    "example": "Complete the AI Ethics Certification to become a certified reviewer.",
+    "icon": "🏆",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/certification"
+  },
+  {
+    "term": "Governance Proposal",
+    "definition": "A formal proposal submitted to the SingularityNET DAO for community voting and decision-making.",
+    "category": "Governance",
+    "usedBy": "Governance Circle, All Ambassadors",
+    "example": "Submit a governance proposal to change the XP reward structure.",
+    "icon": "🗳️",
+    "docsLink": "https://docs.singularitynet.io/governance/proposals"
+  },
+  {
+    "term": "SNETverse",
+    "definition": "The virtual metaverse environment where SingularityNET community members can interact and collaborate.",
+    "category": "Tech / AI",
+    "usedBy": "Metaverse Team, Community",
+    "example": "Attend the weekly ambassador meeting in the SNETverse.",
+    "icon": "🌐",
+    "docsLink": "https://docs.singularitynet.io/snetverse"
+  },
+  {
+    "term": "Contribution Form",
+    "definition": "A standardized form used by ambassadors to report their monthly contributions and activities.",
+    "category": "Governance",
+    "usedBy": "All Ambassadors, Review Circle",
+    "example": "Submit your contribution form by the 15th of each month.",
+    "icon": "📝",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/contribution-form"
+  },
+  {
+    "term": "AGIX Token",
+    "definition": "The native utility token of the SingularityNET platform used for transactions and governance.",
+    "category": "Web3 / Blockchain",
+    "usedBy": "All Users, Developers",
+    "example": "Use AGIX tokens to pay for AI services on the platform.",
+    "icon": "🪙",
+    "docsLink": "https://docs.singularitynet.io/tokens/agix"
+  },
+  {
+    "term": "AI Service",
+    "definition": "Decentralized AI algorithms and models available on the SingularityNET marketplace.",
+    "category": "Tech / AI",
+    "usedBy": "Developers, AI Researchers",
+    "example": "Deploy your machine learning model as an AI service.",
+    "icon": "🤖",
+    "docsLink": "https://docs.singularitynet.io/ai-services"
+  },
+  {
+    "term": "Treasury Guild",
+    "definition": "A workgroup responsible for managing ambassador program funds and budget allocation.",
+    "category": "Ambassador Workgroups",
+    "usedBy": "Treasury Team, Financial Planning",
+    "example": "The Treasury Guild approves budget requests for workgroup activities.",
+    "icon": "💼",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/workgroups/treasury"
+  },
+  {
+    "term": "Swarm Intelligence",
+    "definition": "Collective intelligence emerging from collaboration of decentralized, self-organized systems.",
+    "category": "Tech / AI",
+    "usedBy": "Research Teams, AI Developers",
+    "example": "Leverage swarm intelligence to solve complex optimization problems.",
+    "icon": "🐝",
+    "docsLink": "https://docs.singularitynet.io/research/swarm-intelligence"
+  },
+  {
+    "term": "Reputation System",
+    "definition": "A mechanism to track and reward ambassador contributions and community standing.",
+    "category": "Social/XP Systems",
+    "usedBy": "All Ambassadors, Governance",
+    "example": "Your reputation score determines voting weight in governance decisions.",
+    "icon": "⭐",
+    "docsLink": "https://docs.singularitynet.io/ambassadors/reputation"
+  }
+]
